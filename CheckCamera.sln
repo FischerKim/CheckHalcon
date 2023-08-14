@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckCamera", "CheckCamera\CheckCamera.csproj", "{ECAD460B-2B67-4138-8D82-0C8FF68C9309}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECAD460B-2B67-4138-8D82-0C8FF68C9309}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECAD460B-2B67-4138-8D82-0C8FF68C9309}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECAD460B-2B67-4138-8D82-0C8FF68C9309}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECAD460B-2B67-4138-8D82-0C8FF68C9309}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E172C7F-4AE0-4111-9403-08C6A0BF8AD6}
+	EndGlobalSection
+EndGlobal
